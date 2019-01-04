@@ -19,12 +19,9 @@
         <query/>
         <report/>
         <roles>x_69202_marketing.new_table_marketing_event_user</roles>
-        <survey/>
-        <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-04 15:30:42</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8057e221db3e2300351059d0cf961925</sys_id>
@@ -33,14 +30,12 @@
         <sys_overrides/>
         <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
         <sys_update_name>sys_app_module_8057e221db3e2300351059d0cf961925</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-01-04 15:30:42</sys_updated_on>
         <timeline_page/>
         <title>New Table Marketing Events</title>
-        <u_group/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

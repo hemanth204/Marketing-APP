@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_69202_marketing_new_table_marketing_event">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_69202_marketing_marketing_event_app_tab">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_69202_marketing_new_table_marketing_event</name>
+        <name>x_69202_marketing_marketing_event_app_tab</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-04 15:30:43</sys_created_on>
-        <sys_id>6e186ea9db76230065f3a08a48961942</sys_id>
+        <sys_created_on>2019-01-04 15:36:23</sys_created_on>
+        <sys_id>5f986a6ddb76230065f3a08a4896192a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_69202_marketing_new_table_marketing_event</sys_name>
+        <sys_name>x_69202_marketing_marketing_event_app_tab</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
-        <sys_update_name>sys_dictionary_x_69202_marketing_new_table_marketing_event_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-01-04 15:34:10</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_69202_marketing_marketing_event_app_tab_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-04 15:36:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
