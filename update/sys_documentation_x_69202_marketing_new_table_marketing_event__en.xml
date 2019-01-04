@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="New Table Marketing Event" language="en" table="x_69202_marketing_new_table_marketing_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>New Table Marketing Event</label>
+            <language>en</language>
+            <name>x_69202_marketing_new_table_marketing_event</name>
+            <plural>New Table Marketing Events</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-04 15:30:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5857e221db3e2300351059d0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Table Marketing Event</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
+            <sys_update_name>sys_documentation_x_69202_marketing_new_table_marketing_event__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-04 15:30:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

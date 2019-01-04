@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-04 15:30:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1057e221db3e2300351059d0cf961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69202_marketing_new_table_marketing_event.x_69202_marketing.new_table_marketing_event_user</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
+        <sys_security_acl display_value="x_69202_marketing_new_table_marketing_event">5c57e221db3e2300351059d0cf961950</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1057e221db3e2300351059d0cf961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-04 15:30:43</sys_updated_on>
+        <sys_user_role display_value="x_69202_marketing.new_table_marketing_event_user" name="x_69202_marketing.new_table_marketing_event_user">bf47a6addbfa2300351059d0cf9619ac</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
