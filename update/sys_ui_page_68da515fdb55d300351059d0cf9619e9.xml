@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_69202_marketing_angular_todo.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<script language="javascript" src="x_snc_marketing_ev"></script>
+<div ng-app="">
+    <input type="text" ng-model="myVar"/>
+    
+</div>
+									   
+</j:jelly>]]></html>
+        <name>angular_todo</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-11 10:42:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>68da515fdb55d300351059d0cf9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>angular_todo</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
+        <sys_update_name>sys_ui_page_68da515fdb55d300351059d0cf9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-11 10:42:38</sys_updated_on>
+    </sys_ui_page>
+</record_update>

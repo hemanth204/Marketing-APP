@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_69202_marketing.service.sn-glideAjax</name>
+        <script><![CDATA[angular.module('sn.glideAjax', []);
+angular.module('sn.glideAjax').service('GlideAjax', function($rootScope) {
+	var glideAjax = window.GlideAjax;
+	glideAjax.prototype.getJSON = function(callback) {
+		this.getXMLAnswer(function(answer) {
+			var answerJSON = JSON.parse(answer);
+			callback(answerJSON);
+			$rootScope.$apply();
+			});
+	};
+ 
+	return glideAjax;
+});]]></script>
+        <script_name>service.sn-glideAjax</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-11 10:49:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ddbc959fdb55d300351059d0cf961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69202_marketing.service.sn-glideAjax</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_69202_marketing">b6b959dbdb55d300351059d0cf961975</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b6b959dbdb55d300351059d0cf961975</sys_scope>
+        <sys_update_name>sys_ui_script_ddbc959fdb55d300351059d0cf961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-11 10:49:02</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>
